@@ -48,6 +48,7 @@ Um autor pode estar relacionado a um artigo por meio da relação `ESCREVEU`, in
 Dessa forma, o modelo permite representar não apenas as entidades presentes na base acadêmica, mas também as conexões existentes entre elas. Essa abordagem facilita a análise dos relacionamentos e possibilita a exploração da rede de conhecimento formada pelos autores, artigos, tópicos e citações. O modelo de grafos utiliza nós para representar entidades e relacionamentos para representar as conexões existentes entre elas, sendo possível também associar propriedades tanto aos nós quanto aos relacionamentos. [2]
 # 7. Diagrama do Grafo
 ![Diagrama do Grafo](grafo.drawio.png)
+![Grafo](bloom-visualisation.png)
 
 # 8. Conclusão
 
