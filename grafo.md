@@ -54,20 +54,20 @@ Dessa forma, o modelo permite representar não apenas as entidades presentes na 
 
 [2] NEO4J. What is a graph database? Neo4j Documentation. Disponível em: https://neo4j.com/docs/getting-started/graph-database/. Acesso em: 04 out. 2026.
 
-[4] NEO4J. What is graph data modeling? Neo4j Documentation. Disponível em: https://neo4j.com/docs/getting-started/data-modeling/. Acesso em: 04 out. 2026.
+[3] NEO4J. What is graph data modeling? Neo4j Documentation. Disponível em: https://neo4j.com/docs/getting-started/data-modeling/. Acesso em: 04 out. 2026.
 
-[5] NEO4J. Knowledge graphs. Neo4j. Disponível em: https://neo4j.com/use-cases/knowledge-graph/. Acesso em: 04 out. 2026.
+[4] NEO4J. Knowledge graphs. Neo4j. Disponível em: https://neo4j.com/use-cases/knowledge-graph/. Acesso em: 04 out. 2026.
 
-[6]FREIXO, Marcos . JOIN não é só sintaxe: como evitar duplicações silenciosas em
+[5]FREIXO, Marcos . JOIN não é só sintaxe: como evitar duplicações silenciosas em
 relatórios corporativos. Ash3, 2026. Disponível em:
 https://ash3.com.br/blog/sql-joins-relatorios/. Acesso em: 28 set. 2026.
 
-[7]ERICKSON, Jeffrey . O que é um banco de dados de grafos?. ORACLE, 2026.
+[6]ERICKSON, Jeffrey . O que é um banco de dados de grafos?. ORACLE, 2026.
 Disponível em:
 https://www.oracle.com/br/autonomous-database/what-is-graph-database/ Acesso
 em: 28 set. 2026.
 
-[8]MEYRELLES, Mário . Uma gentil introdução ao uso de banco de dados orientados a
+[7]MEYRELLES, Mário . Uma gentil introdução ao uso de banco de dados orientados a
 grafos com Neo4j. Medium, 2015. Disponível em:
 https://medium.com/accendis-tech/uma-gentil-introdu%C3%A7%C3%A3o-ao-uso-de-banco-de-dados-orientados-a-grafos-com-neo4j-ca148df2d352. Acesso em: 28 set.
 2026.
