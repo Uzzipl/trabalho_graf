@@ -48,7 +48,19 @@ Um autor pode estar relacionado a um artigo por meio da relação `ESCREVEU`, in
 Dessa forma, o modelo permite representar não apenas as entidades presentes na base acadêmica, mas também as conexões existentes entre elas. Essa abordagem facilita a análise dos relacionamentos e possibilita a exploração da rede de conhecimento formada pelos autores, artigos, tópicos e citações. O modelo de grafos utiliza nós para representar entidades e relacionamentos para representar as conexões existentes entre elas, sendo possível também associar propriedades tanto aos nós quanto aos relacionamentos. [2]
 # 7. Diagrama do Grafo
 ![Diagrama do Grafo](grafo.drawio.png)
-# 8. Referências
+
+# 8. Conclusão
+
+A produção científica possui uma grande quantidade de relacionamentos entre autores, artigos e tópicos.
+Em um banco de dados relacional, essas relações podem ser representadas através de tabelas intermediárias, chaves estrangeiras, JOINs e, no caso das citações, até mesmo Self-Joins.
+O problema não está na incapacidade do SQL de realizar essas operações, mas na complexidade que pode surgir quando é necessário analisar muitos níveis de relacionamento.
+
+O banco de grafos permite representar essas dependências diretamente como conexões.
+No modelo proposto, autores, artigos e tópicos são representados como nós, enquanto relações como ESCREVEU, CITA, ABORDA e PESQUISA são representadas como arestas.
+Com isso, a equipe pode realizar análises de influência acadêmica, encontrar artigos relacionados, analisar redes de citações e identificar pesquisadores relevantes em determinado tópico.
+Portanto, o modelo de grafos se mostra uma alternativa adequada para esse cenário porque o relacionamento entre as informações possui tanta importância quanto os dados armazenados individualmente.
+
+# 9. Referências
 
 [1] NEO4J. Modeling: relational to graph. Neo4j Documentation. Disponível em: https://neo4j.com/docs/getting-started/data-modeling/relational-to-graph-modeling/. Acesso em: 04 out. 2026.
 
